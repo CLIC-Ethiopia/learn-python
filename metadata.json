@@ -1,0 +1,7 @@
+{
+  "name": "Python Study Portal",
+  "description": "An interactive educational web application for mastering Python, featuring detailed lessons, syntax cheat sheets, fully annotated code blocks, and dynamic quiz mechanisms for all 7 sub-books in Python All-in-One For Dummies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
